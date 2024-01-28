@@ -14,6 +14,6 @@
 - You can check or your file in check_data_here.ipynb file in vscode by running the code in cell and follow install instructions pop up's
 - If a particular date throws exception, Mostly its a non Working day
 ## Credits and Disclaimer
-- Credits to Team at Matic algos and Niraj for providing the API public
+- Credits to Team at Matic algos and Niraj for providing the API publically
 - For usage rights refer Matic algos website
 - Exercise caution when utilizing the code, avoid using it indiscriminately
